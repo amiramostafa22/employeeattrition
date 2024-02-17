@@ -1,1 +1,6 @@
-# employeeattrition
+# IBM Predicting Employee Attrition and Performance
+
+This research investigates the relationship between employee attrition and performance within the context of IBM HR Analytics, utilizing a supervised machine learning approach. The methodology involves comprehensive data processing steps, including data import, retrieval, exploratory data analysis, pre-processing and data modeling. The dataset, with 1500 rows and 35 columns, encompasses various employee-related factors. Multiple machine learning models, such as Logistic Regression, Decision Tree, Support Vector Machine, K-Nearest Neighbor, XGBoost, CatBoost, Gradient Boosting, Random Forest and Naïve Bayes, are employed to predict employee attrition. The Champion Model identified as Logistic Regression with accuracy
+87%. The study also delves into the relationships between job satisfaction, business travel, monthly income, and attrition based on various demographic factors.
+<br>
+The results highlight Logistic Regression as the most effective model, validated through cross validation using Power BI dashboards. The study provides insights into the factors influencing employee attrition, aiming to inform strategies for improving employee retention and performance in the IBM HR Analytics system
